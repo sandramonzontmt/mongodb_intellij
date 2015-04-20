@@ -74,7 +74,7 @@ public class AppMain {
 			}
 
 			/**** Done ****/
-			System.out.println("Done");
+			System.out.println("Done ! ");
 
 		} catch (UnknownHostException e) {
 			e.printStackTrace();
